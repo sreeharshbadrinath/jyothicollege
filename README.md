@@ -9,14 +9,14 @@ Based on the repository configuration, this project utilizes the following techn
 *   **Backend & Database:** Firebase / Firestore (`firebase-applet-config.json`, `firestore.rules`)
 *   **Package Manager:** npm (`package.json`, `package-lock.json`)
 
-## 🛠️ Prerequisites
+## Prerequisites
 
 Before you begin, ensure you have the following installed on your local machine:
 
 *   [Node.js](https://nodejs.org/) (v16 or higher recommended)
 *   npm (comes with Node.js) or yarn
 
-## 💻 Getting Started
+##  Getting Started
 
 Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
 
