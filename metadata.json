@@ -1,0 +1,6 @@
+{
+  "name": "Jyothi Engineering College Campus Showcase",
+  "description": "An elegant, interactive campus showcase for Jyothi Engineering College celebrating twenty-five years of academic excellence towards its Silver Jubilee in 2027.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
