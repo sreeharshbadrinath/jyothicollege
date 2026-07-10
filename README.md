@@ -1,4 +1,4 @@
-# Jyothi Engineering College Showcase
+# Jyothi Engineering College Website
 
 A modern web application showcasing Jyothi Engineering College. This project is built using TypeScript and Vite, with Firebase integrated for backend services and data management.
 
